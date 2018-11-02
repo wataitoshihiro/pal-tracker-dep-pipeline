@@ -37,5 +37,5 @@ jobs:
         api: $CF_API_URL
         username: $CF_USERNAME
         password: $CF_PASSWORD
-        organization: $CF_ORG
+        organization: "$CF_ORG"
         space: development
