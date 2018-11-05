@@ -38,5 +38,6 @@ jobs:
         username: $CF_USERNAME
         password: $CF_PASSWORD
 #        organization: $CF_ORG
+        space: $CF_SPACE
         organization: Fujitsu KnowledgeBase
-        space: development
+#        space: development
