@@ -5,4 +5,4 @@ applications:
   routes:
   - route: pal-tracker-watai.cfapps.io
   env:
-    WELCOME_MESSAGE: Hello from the environment
+    WELCOME_MESSAGE: Hello from the devlopment environment
